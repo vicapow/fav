@@ -1,0 +1,21 @@
+{
+  "name": "fav",
+  "version": "0.0.1",
+  "description": "Parse a favicon ICO file\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "favicon",
+    "ico",
+    "fav"
+  ],
+  "author": "Victor Powell <vicapow@gmail.com>",
+  "license": "BSD",
+  "dependencies": {
+    "jParser": "~1.0.2",
+    "underscore": "~1.4.1"
+  }
+}
