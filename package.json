@@ -1,6 +1,6 @@
 {
   "name": "fav",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Parse a favicon ICO file\"",
   "main": "index.js",
   "scripts": {
