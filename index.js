@@ -1,3 +1,4 @@
+// based off of: https://github.com/vjeux/jParser/blob/master/sample/ico/ico.node.js
 var fs = require('fs')
   , jParser = require('jparser')
   , _ = require('underscore')
