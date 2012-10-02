@@ -55,8 +55,7 @@ module.exports = function(filename,cb){
 
         , images : function(){
           var self = this
-          var res = []
-          this.current.header.imageCount
+            , res = []
           _.each(this.current.idEntries,function(entry){
             self.seek(entry.dwImageOffset)
             res.push(self.parse('iconImage'))
