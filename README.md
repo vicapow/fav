@@ -1,7 +1,8 @@
 # Fav
-## A simple module for parsing an ICO file.
+## A simple module for parsing favicon ICO files.
 
 to install
+
     npm install fav
 
 Here's a simple usage example
