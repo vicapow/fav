@@ -2,7 +2,7 @@
 ## A simple module for parsing an ICO file.
 
 to install
-  npm install fav
+    npm install fav
 
 Here's a simple usage example
 
