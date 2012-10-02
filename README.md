@@ -1,5 +1,5 @@
 # Fav
-## A simple module for parsing favicon ICO files.
+## A simple module for parsing favicon ICO files in Node.JS
 
 to install
 
