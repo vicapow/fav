@@ -1,5 +1,5 @@
 # Fav
-## A simple module for parsing an ICO file.
+## A simple module for parsing a favicon ICO files.
 
 to install
     
