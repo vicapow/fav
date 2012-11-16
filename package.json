@@ -1,6 +1,6 @@
 {
   "name": "fav",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "parse and convert ICO icon files to PNG or JPEG using node canvas\"",
   "main": "fav.js",
   "scripts": {
