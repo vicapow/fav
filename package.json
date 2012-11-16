@@ -1,8 +1,8 @@
 {
   "name": "fav",
-  "version": "0.0.5",
-  "description": "Parse a favicon ICO file\"",
-  "main": "index.js",
+  "version": "0.0.6",
+  "description": "parse and convert ICO icon files to PNG or JPEG using node canvas\"",
+  "main": "fav.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,12 +10,10 @@
   "keywords": [
     "favicon",
     "ico",
-    "fav"
+    "fav",
+    "canvas"
   ],
   "author": "Victor Powell <vicapow@gmail.com>",
   "license": "BSD",
-  "dependencies": {
-    "jParser": "~1.0.2",
-    "underscore": "~1.4.1"
-  }
+  "dependencies": {}
 }

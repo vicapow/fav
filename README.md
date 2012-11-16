@@ -7,9 +7,11 @@ to install
 
 Here's a simple usage example
 
-    var fav = require('../index.js')
+````javascript
+    var Canvas = require('Canvas')
+      , fs = require('fs')
+      , fav = require('fav')(Canvas)
+      , icon = fav('favicon.ico').getLargest()
 
-    fav('favicon.ico',function(err,ico){
-      if(err) throw err
-      console.log('there are : '+ico.images.length+' icons in this ICO file')
-    })
+    icon.createPNGStream().pipe(fs.createWriteStream('example.png'))
+````
